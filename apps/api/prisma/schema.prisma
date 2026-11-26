@@ -1,0 +1,4 @@
+// Phase 1 configures the provider. Feature phases add models and migrations.
+datasource db {
+  provider = "postgresql"
+}
